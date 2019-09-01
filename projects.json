@@ -2,4 +2,9 @@
   "description":"Gprojects - отправная точка, где собрана краткая иноформация о всех проектах, ссылки на репозитории и контакты для связи с разработчиком.",
   "technology":["HTML","CSS","Angular","BootStrap","Angular CLI","NodeJS","NPM"],
   "url":"https://github.com/Gur58/huroku",
-  "img":"../../assets/img/angular.png"}]}
+  "img":"../../assets/res/img/angular.png"},
+  {"title":"OIT",
+    "description":"Простое React приложение на тему оказания услуг в сфере информационных технологий. Приложение разработа исключительно с целью ознакомления с основами разработки React приложенийю",
+    "technology":["HTML","CSS","React","BootStrap","Create React App","NodeJS","NPM","JQuery"],
+    "url":"https://github.com/Gur58/huroku",
+    "img":"../../assets/img/angular.png"}]}
